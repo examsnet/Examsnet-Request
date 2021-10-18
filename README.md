@@ -1,5 +1,5 @@
 #Loading...
 <script>
 console.log('Script Successfully executed'); 
-window.location.href='https://www.examsnet.com'
+window.location.href='https://youtu.be/EDognZuOZLM'
 </script>
