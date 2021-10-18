@@ -1,3 +1,3 @@
 <script>
-  window.location.href='www.examsnet.com';
+  window.location.href='https://www.examsnet.com';
 </script>
