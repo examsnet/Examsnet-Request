@@ -11,6 +11,9 @@ Examsnet team.
 
 <style>
 .header{
-  color:red;
+  display:none!important;
+  }
+  .credits{
+   display:none!important;
   }
 <style>
