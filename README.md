@@ -2,7 +2,7 @@ Dear Students,
 
 Thank you for downloading our App
 
-Kindly share about this App on your social media, instagram, youtube, facebook, whatsapp, share chat etc.
+Kindly share about this App on your social media, instagram, youtube, facebook, whatsapp, share chat etc. You have all rights to make any review video about our apps.
 
 It will be very helpful for someone who is really searching for a similar app. 
 
