@@ -6,12 +6,13 @@ Kindly share about our app in social media, insta reels, youtube shorts, faceboo
 
 All the best for your preparation.
 
-Thanks
-Examsnet team.
+Thanks,
+
+Examsnet
 
 <style>
-.header{
-  display:none!important;
+  #header{
+    display:none!important;
   }
   .credits{
    display:none!important;
