@@ -6,7 +6,7 @@ Kindly share about this App on your social media, instagram, youtube, facebook, 
 
 It will be very helpful for someone who is really searching for a similar app. 
 
-All the best for your preparation.
+All the best for your preparation. 
 
 Thanks,
 
@@ -21,5 +21,8 @@ Examsnet
   }
   section{
     font-size:14px !important;
+  }
+  #title{
+   display:none;
   }
 <style>
