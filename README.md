@@ -1,8 +1,8 @@
 Dear Students,
 
-Thank you for downloading our app
+Thank you for downloading our App
 
-Kindly share about this app on your social media, such insta reels, youtube shorts, facebook, whatsapp, share chat etc.
+Kindly share about this App on your social media, instagram, youtube, facebook, whatsapp, share chat etc.
 
 It will be very helpful for someone who is really searching for a similar app. 
 
