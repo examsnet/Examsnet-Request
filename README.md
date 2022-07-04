@@ -6,6 +6,5 @@ Kindly share about our app in social media, insta reels, youtube shorts, faceboo
 
 All the best for your preparation.
 
-Thanks u
-
+Thanks
 Examsnet team.
